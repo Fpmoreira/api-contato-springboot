@@ -1,0 +1,27 @@
+
+# Diretórios de build
+/target/
+/build/
+
+# Configurações específicas da IDE
+/.idea/
+/*.iml
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.ear
+
+# Outros
+.vscode/
